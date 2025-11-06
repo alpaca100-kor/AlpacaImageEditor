@@ -1,5 +1,5 @@
 # AlpacaImageEditor
-알파카 이미지 편집기(Alpaca Image Editor)는 기존에 선보인 ImageMerger 프로그램(https://github.com/alpaca100-kor/ImageMerger)을 업그레이드한 버전입니다.
+알파카 이미지 편집기(Alpaca Image Editor)는 기존에 선보인 ImageMerger 프로그램(https://github.com/alpaca100-kor/ImageMerger/)을 업그레이드한 버전입니다.
 
 ## 사용법
 1. 이미지 편집 유형 선택
